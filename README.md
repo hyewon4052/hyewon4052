@@ -1,12 +1,11 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?hyewon4052=username)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyewon4052&show_icons=true&theme=radical)
 
 
 <!--
 **hyewon4052/hyewon4052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
