@@ -1,5 +1,6 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<hr>
 
 <h3 align="center">🛠TECH STACK🛠</h3>
 <p align="center">
@@ -16,10 +17,12 @@
   <a href="mailto:s2311@e-mirim.hs.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s2311@e-mirim.hs.kr"/></a>
 </p>
 
+<hr>
+
 <br>
 
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyewon4052&show_icons=true&theme=radical)
 
 
