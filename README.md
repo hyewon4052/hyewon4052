@@ -4,12 +4,22 @@
  <hr>
 -->
 
+## 안녕하세요! 
+모르는 것을 두려워하지 않고, 끊임없이 질문하며 성장하는 개발자, 양혜원입니다.
 
+
+<br>
+
+### ✏ My Storage
+ <a href="https://velog.io/@hyewon4052/posts"><img src="https://img.shields.io/badge/velog-20c997.svg?style=for-the-badge&logo=velog&logoColor=white"/></a>
+
+<br>
 
 [![Github](https://www.codenary.co.kr/widget/github/api?username=양혜원)](https://www.codenary.co.kr/user-profile/detail/양혜원?github_ride=true&utm_source=github)
 
 <hr>
 
+<!--
 <h3 align="center">🛠TECH STACK🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -29,7 +39,7 @@
 <hr>
 
 <br>
-
+-->
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyewon4052&show_icons=true&theme=radical)
