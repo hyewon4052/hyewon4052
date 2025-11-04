@@ -15,9 +15,11 @@
 
 <br>
 
+<!--
 [![Github](https://www.codenary.co.kr/widget/github/api?username=양혜원)](https://www.codenary.co.kr/user-profile/detail/양혜원?github_ride=true&utm_source=github)
 
 <hr>
+-->
 
 <!--
 <h3 align="center">🛠TECH STACK🛠</h3>
