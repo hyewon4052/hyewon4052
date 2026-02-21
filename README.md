@@ -4,6 +4,8 @@
  <hr>
 -->
 
+<!--
+
 ## 안녕하세요! 
 모르는 것을 두려워하지 않고, 끊임없이 질문하며 성장하는 개발자, 양혜원입니다.
 
@@ -15,7 +17,7 @@
 
 <br>
 
-<!--
+
 [![Github](https://www.codenary.co.kr/widget/github/api?username=양혜원)](https://www.codenary.co.kr/user-profile/detail/양혜원?github_ride=true&utm_source=github)
 
 <hr>
