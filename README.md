@@ -2,9 +2,18 @@
 ## 안녕하세요! 
 모르는 것을 두려워하지 않고, 끊임없이 질문하며 성장하는 개발자, 양혜원입니다.
 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=hyewon4052&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hyewon4052"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
+
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 <br>
